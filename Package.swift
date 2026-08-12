@@ -7,8 +7,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "OneRing",
-            url: "https://github.com/miniclip/OneRing/releases/download/1.7.4/OneRing-1.7.4.xcframework.zip",
-            checksum: "d1b7247c54ff2e9a513ec6322a867e6d615bf1d0db95960d4c284463e5fba07a"
+            url: "https://github.com/miniclip/OneRing/releases/download/1.8.0/OneRing-1.8.0.xcframework.zip",
+            checksum: "4ef8ba1d296c67c5b8538cde17f7c852a245c4e7fa377975cf0bfd3ed4b7d275"
         )
     ]
 )
